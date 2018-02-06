@@ -5,7 +5,7 @@ clear
 echo "    ################################################"
 echo "    #                                              #"
 echo "    #            Install SSSS on Linux OS          #"
-echo "    #                https://pa.ci                 #"
+echo "    #                https://pa.ci               #"
 echo "    #                 Version 0.4                  #"
 echo "    ################################################"
 #Prepare the installation environment
